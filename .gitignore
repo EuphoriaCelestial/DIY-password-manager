@@ -1,5 +1,10 @@
+# my ignore
+login.json
+test.py
+ui_test.py
+
 # Byte-compiled / optimized / DLL files
-__pycache__/
+__pycache__
 *.py[cod]
 *$py.class
 
