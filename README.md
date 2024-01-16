@@ -1,8 +1,10 @@
 - Actually this is more like a TODO or planning file than a README
 
 - Maybe it is needed to install this, if not installed (not sure if the version is needed)  
+<pre>
 python3.9  
 pip install cryptography==41.0.7
+</pre>
 
 - Some shit to run the test file, not actually needed  
 <pre>
